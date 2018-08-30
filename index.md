@@ -2,6 +2,8 @@
 
 This page is to manage the ACFR lunch time reading group. 
 
+![Image](walle.jpg)
+
 The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
 Currently we are also going through a reinforcement learning tutorials set which will be every 2-3 weeks as an ongoing series of talks.

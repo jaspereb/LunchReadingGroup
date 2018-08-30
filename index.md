@@ -11,10 +11,10 @@ Currently we are also going through a reinforcement learning tutorials set which
 Meetings are held every **Tuesday from 1:15pm to 1:45**, presentations should last 20-40 minutes with time for discussion included.
 
 ## Guidelines
--Upload the paper or presentation at least 1 day prior
--It's informal, so present however you feel is most useful. Presenting should not be a significant burden so don't spend too long preparing.
--Pick whatever recent paper you have found most interesting or useful which other people are unlikely to have read
--Lunch appropriate illustrations (looking at you Wei Rong)
+-Upload the paper or presentation at least 1 day prior  
+-It's informal, so present however you feel is most useful. Presenting should not be a significant burden so don't spend too long preparing.  
+-Pick whatever recent paper you have found most interesting or useful which other people are unlikely to have read  
+-Lunch appropriate illustrations (looking at you Wei Rong)  
 
 ## Schedule
 

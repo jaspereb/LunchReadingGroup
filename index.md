@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## The Lunch Reading Group
 
-You can use the [editor on GitHub](https://github.com/jaspereb/LunchReadingGroup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is to manage the ACFR lunch time reading group. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
-### Markdown
+Currently we are also going through a reinforcement learning tutorials set which will be every 2-3 weeks as an ongoing series of talks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Meetings are held every **Tuesday from 1:15pm to 1:45**, presentations should last 20-40 minutes with time for discussion included.
 
-```markdown
-Syntax highlighted code block
+## Guidelines
+-Upload the paper or presentation at least 1 day prior
+-It's informal, so present however you feel is most useful. Presenting should not be a significant burden so don't spend too long preparing.
+-Pick whatever recent paper you have found most interesting or useful which other people are unlikely to have read
+-Lunch appropriate illustrations (looking at you Wei Rong)
 
-# Header 1
-## Header 2
-### Header 3
+## Schedule
 
-- Bulleted
-- List
+The old schedule can also be found on confluence.
 
-1. Numbered
-2. List
+![Image](old_schedule.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaspereb/LunchReadingGroup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Date  | Presenter | Topic | Link |
+| ------------- | ------------- | ------------- | ------------- |
+| 4/9/18 | _ | _ | _ |
+| 11/9/18 | _ | _ | _ |
+| 18/9/18 | _ | _ | _ |
+| 25/9/18 | _ | _ | _ |
+| 2/10/18 | _ | _ | _ |
+| 9/10/18 | _ | _ | _ |
+| 16/10/18 | _ | _ | _ |
+| 23/10/18 | _ | _ | _ |
+| 30/10/18 | _ | _ | _ |
+| 6/11/18 | _ | _ | _ |
+| 13/11/18 | _ | _ | _ |
+| 20/11/18 | _ | _ | _ |
+| 27/11/18 | _ | _ | _ |
+| 4/12/18 | _ | _ | _ |
+| 11/12/18 | _ | _ | _ |
+| 18/12/18 | _ | _ | _ |
+| 25/12/18 | Go home | to | your families |

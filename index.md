@@ -6,9 +6,12 @@ This page is to manage the ACFR lunch time reading group.
 
 The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
-Currently we are also going through a reinforcement learning tutorials set which will be every 2-3 weeks as an ongoing series of talks.
+Currently we are also going through a reinforcement learning tutorials set which will be every 2-3 weeks as an ongoing series of talks. The content will follow David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
+Also see  
+-https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+-https://medium.com/biffures/rl-course-by-david-silver-lectures-1-to-4-7667608bf7d3
 
-Meetings are held every **Tuesday from 1:15pm to 1:45**, presentations should last 20-40 minutes with time for discussion included.
+Meetings are held every **Tuesday from 1:15pm to 2pm**, presentations should last 20-40 minutes with time for discussion included.
 
 ## Guidelines
 -Upload the paper or presentation at least 1 day prior  
@@ -24,20 +27,20 @@ The old schedule can also be found on confluence.
 
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
-| 4/9/18 | _ | _ | _ |
+| 4/9/18 | Jasper | RL1 | Intro http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html |
 | 11/9/18 | _ | _ | _ |
-| 18/9/18 | _ | _ | _ |
+| 18/9/18 | Wei? | RL2 | MDPs |
 | 25/9/18 | _ | _ | _ |
-| 2/10/18 | _ | _ | _ |
-| 9/10/18 | _ | _ | _ |
+| 2/10/18 | Max | RL3 | Dynamic Programming |
+| 9/10/18 | Vera? | RL4 | Model Free Prediction |
 | 16/10/18 | _ | _ | _ |
-| 23/10/18 | _ | _ | _ |
-| 30/10/18 | _ | _ | _ |
+| 23/10/18 | Felix? | RL5 | Modle Free Control |
+| 30/10/18 | Nathan? | RL6 | Value Function Approximation |
 | 6/11/18 | _ | _ | _ |
-| 13/11/18 | _ | _ | _ |
-| 20/11/18 | _ | _ | _ |
+| 13/11/18 | Fletcher? | RL7 | Value Function Approximation |
+| 20/11/18 | Stuart? | RL8 | Policy Gradient Methods |
 | 27/11/18 | _ | _ | _ |
-| 4/12/18 | _ | _ | _ |
+| 4/12/18 | _ | RL9 | Exploration and Exploitation |
 | 11/12/18 | _ | _ | _ |
 | 18/12/18 | _ | _ | _ |
 | 25/12/18 | Go home | to | your families |

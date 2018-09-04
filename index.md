@@ -23,24 +23,24 @@ Meetings are held every **Tuesday from 1:15pm to 2pm**, presentations should las
 
 The old schedule can also be found on confluence.
 
-![Image](old_schedule.png)
-
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | 4/9/18 | Jasper | RL1 | Intro http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html |
-| 11/9/18 | _ | _ | _ |
-| 18/9/18 | Wei? | RL2 | MDPs |
-| 25/9/18 | _ | _ | _ |
-| 2/10/18 | Max | RL3 | Dynamic Programming |
-| 9/10/18 | Vera? | RL4 | Model Free Prediction |
-| 16/10/18 | _ | _ | _ |
-| 23/10/18 | Felix? | RL5 | Modle Free Control |
-| 30/10/18 | Nathan? | RL6 | Value Function Approximation |
-| 6/11/18 | _ | _ | _ |
-| 13/11/18 | Fletcher? | RL7 | Value Function Approximation |
-| 20/11/18 | Stuart? | RL8 | Policy Gradient Methods |
-| 27/11/18 | _ | _ | _ |
-| 4/12/18 | _ | RL9 | Exploration and Exploitation |
+| 11/9/18 | Fletcher | RL2 | MDPs |
+| 18/9/18 | _ | _ | _ |
+| 25/9/18 | Max | RL3 | Dynamic Programming |
+| 2/10/18 | Jackson | RL4 | Model Free Prediction |
+| 9/10/18 | _ | _ | _ |
+| 16/10/18 | Vera | RL5 | Modle Free Control (End of part 1, reassess schedule)| 
+| 23/10/18 | Wei? | RL6 | Value Function Approximation |
+| 30/10/18 | _ | _ | _ |
+| 6/11/18 | _ | RL7 | Value Function Approximation |
+| 13/11/18 | _ | RL8 | Policy Gradient Methods |
+| 20/11/18 | _ | _ | _ |
+| 27/11/18 | _ | RL9 | Exploration and Exploitation |
+| 4/12/18 | _ | _ | _ |
 | 11/12/18 | _ | _ | _ |
 | 18/12/18 | _ | _ | _ |
 | 25/12/18 | Go home | to | your families |
+
+![Image](old_schedule.png)

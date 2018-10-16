@@ -6,12 +6,12 @@ This page is to manage the ACFR lunch time reading group.
 
 The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
-Currently we are also going through a reinforcement learning tutorials set which will be every 2-3 weeks as an ongoing series of talks. The content will follow David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
+Currently we are also going through a reinforcement learning tutorials set. The content will follow David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
 Also see  
--https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
--https://medium.com/biffures/rl-course-by-david-silver-lectures-1-to-4-7667608bf7d3
+-https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ  
+-https://medium.com/biffures/rl-course-by-david-silver-lectures-1-to-4-7667608bf7d3  
 
-Meetings are held every **Tuesday from 1:15pm to 2pm**, presentations should last 20-40 minutes with time for discussion included.
+Meetings are held every **Tuesday from 12:30pm to 2pm**, presentations should last 20-40 minutes with time for discussion included. The RL series takes around 75 minutes per lecture.
 
 ## Guidelines
 -Upload the paper or presentation at least 1 day prior  
@@ -34,7 +34,7 @@ The old schedule can also be found on confluence.
 | 16/10/18 | Vera | RL5 | Modle Free Control (End of part 1, reassess schedule)| 
 | 23/10/18 | Jasper/Fletcher/All | Recap Lecture | Examples + Summary |
 | 30/10/18 | Johnny | RL6 | Value Function Approximation |
-| 6/11/18 | _ | [Buzzfeeed] | _ |
+| 6/11/18 | _ | [Buzzfeeed Article] | _ |
 | 13/11/18 | _ | RL7 | Value Function Approximation |
 | 20/11/18 | _ | RL8 | Policy Gradient Methods |
 | 27/11/18 | _ | RL9 | Exploration and Exploitation |

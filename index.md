@@ -32,11 +32,11 @@ The old schedule can also be found on confluence.
 | 2/10/18 | Max | RL3 | Dynamic Programming |
 | 9/10/18 | Jackson | RL4 | Model Free Prediction |
 | 16/10/18 | Vera | RL5 | Modle Free Control (End of part 1, reassess schedule)| 
-| 23/10/18 | _ | _ | _ |
+| 23/10/18 | Jasper/Fletcher/All | Recap Lecture | Examples + Summary |
 | 30/10/18 | Johnny | RL6 | Value Function Approximation |
-| 6/11/18 | _ | RL7 | Value Function Approximation |
-| 13/11/18 | _ | RL8 | Policy Gradient Methods |
-| 20/11/18 | _ | _ | _ |
+| 6/11/18 | _ | [Buzzfeeed] | _ |
+| 13/11/18 | _ | RL7 | Value Function Approximation |
+| 20/11/18 | _ | RL8 | Policy Gradient Methods |
 | 27/11/18 | _ | RL9 | Exploration and Exploitation |
 | 4/12/18 | _ | _ | _ |
 | 11/12/18 | _ | _ | _ |

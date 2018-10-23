@@ -13,6 +13,8 @@ Also see
 
 Meetings are held every **Tuesday from 12:30pm to 2pm**, presentations should last 20-40 minutes with time for discussion included. The RL series takes around 75 minutes per lecture.
 
+Fletcher's solution to the Easy21 assignment is [this file](easy21.py)
+
 ## Guidelines
 -Upload the paper or presentation at least 1 day prior  
 -It's informal, so present however you feel is most useful. Presenting should not be a significant burden so don't spend too long preparing.  
@@ -34,9 +36,9 @@ The old schedule can also be found on confluence.
 | 16/10/18 | Vera | RL5 | Modle Free Control (End of part 1, reassess schedule)| 
 | 23/10/18 | Jasper/Fletcher/All | Recap Lecture | Examples + Summary |
 | 30/10/18 | Johnny | RL6 | Value Function Approximation |
-| 6/11/18 | _ | [Buzzfeeed Article] | _ |
-| 13/11/18 | _ | RL7 | Value Function Approximation |
-| 20/11/18 | _ | RL8 | Policy Gradient Methods |
+| 6/11/18 | Fletcher | Atari article | https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf (maybe) |
+| 13/11/18 | _ | RL7 | Policy Gradient Methods |
+| 20/11/18 | _ | RL8 | Integrating Learning and Planning |
 | 27/11/18 | _ | RL9 | Exploration and Exploitation |
 | 4/12/18 | _ | _ | _ |
 | 11/12/18 | _ | _ | _ |

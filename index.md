@@ -37,9 +37,9 @@ The old schedule can also be found on confluence.
 | 23/10/18 | Jasper/Fletcher/All | Recap Lecture | Examples + Summary |
 | 30/10/18 | Johnny | RL6 | Value Function Approximation |
 | 6/11/18 | Fletcher | Atari article | https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf (maybe) |
-| 13/11/18 | _ | RL7 | Policy Gradient Methods |
-| 20/11/18 | _ | RL8 | Integrating Learning and Planning |
-| 27/11/18 | _ | RL9 | Exploration and Exploitation |
+| 13/11/18 | Wei | RL7 | Policy Gradient Methods |
+| 20/11/18 | Max | RL8 | Integrating Learning and Planning |
+| 27/11/18 | James (might be next week) | RL9 | Exploration and Exploitation |
 | 4/12/18 | _ | _ | _ |
 | 11/12/18 | _ | _ | _ |
 | 18/12/18 | _ | _ | _ |

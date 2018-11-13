@@ -36,11 +36,11 @@ The old schedule can also be found on confluence.
 | 16/10/18 | Vera | RL5 | Modle Free Control (End of part 1, reassess schedule)| 
 | 23/10/18 | Jasper/Fletcher/All | Recap Lecture | Examples + Summary |
 | 30/10/18 | Johnny | RL6 | Value Function Approximation |
-| 6/11/18 | Fletcher | Atari article | https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf (maybe) |
-| 13/11/18 | Wei | RL7 | Policy Gradient Methods |
-| 20/11/18 | Max | RL8 | Integrating Learning and Planning |
-| 27/11/18 | James (might be next week) | RL9 | Exploration and Exploitation |
-| 4/12/18 | _ | _ | _ |
+| 6/11/18 | _ | _ | _ |
+| 13/11/18 | Fletcher | Atari article | https://www.nature.com/articles/nature14236.pdf |
+| 20/11/18 | Wei | RL7 | Policy Gradient Methods |
+| 27/11/18 | Max | RL8 | Integrating Learning and Planning |
+| 4/12/18 | James (might be next week?) | RL9 | Exploration and Exploitation |
 | 11/12/18 | _ | _ | _ |
 | 18/12/18 | _ | _ | _ |
 | 25/12/18 | Go home | to | your families |

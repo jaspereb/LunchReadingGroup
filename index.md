@@ -39,8 +39,8 @@ The old schedule can also be found on confluence.
 | 6/11/18 | _ | _ | _ |
 | 13/11/18 | Fletcher | Atari article | https://www.nature.com/articles/nature14236.pdf |
 | 20/11/18 | Wei | RL7 | Policy Gradient Methods |
-| 27/11/18 | Max | RL8 | Integrating Learning and Planning |
-| 4/12/18 | James (might be next week?) | RL9 | Exploration and Exploitation |
+| 27/11/18 | James | RL8 | Integrating Learning and Planning |
+| 4/12/18 | Max | RL9 | Exploration and Exploitation |
 | 11/12/18 | _ | _ | _ |
 | 18/12/18 | _ | _ | _ |
 | 25/12/18 | Go home | to | your families |

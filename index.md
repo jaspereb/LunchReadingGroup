@@ -15,6 +15,9 @@ Meetings are held every **Tuesday from 12:30pm to 2pm**, presentations should la
 
 Fletcher's solution to the Easy21 assignment is [this file](easy21.py)
 
+A good blog post for an overview of actor critic methods (and the A2C algorithm) is  
+-https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 
+
 ## Guidelines
 -Upload the paper or presentation at least 1 day prior  
 -It's informal, so present however you feel is most useful. Presenting should not be a significant burden so don't spend too long preparing.  

@@ -44,7 +44,7 @@ The old schedule can also be found on confluence.
 | 20/11/18 | Wei | RL7 | Policy Gradient Methods |
 | 27/11/18 | James | RL8 | Integrating Learning and Planning |
 | 4/12/18 | Max | RL9 | Exploration and Exploitation |
-| 11/12/18 | _ | _ | _ |
+| 11/12/18 | Jasper | World Models | https://arxiv.org/pdf/1803.10122.pdf |
 | 18/12/18 | _ | _ | _ |
 | 25/12/18 | Go home | to | your families |
 

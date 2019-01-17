@@ -24,10 +24,30 @@ A good blog post for an overview of actor critic methods (and the A2C algorithm)
 -Pick whatever recent paper you have found most interesting or useful which other people are unlikely to have read  
 -Lunch appropriate illustrations (looking at you Wei Rong)  
 
-## Schedule
+## 2019 Schedule
+| Date  | Presenter | Topic | Link |
+| ------------- | ------------- | ------------- | ------------- |
+| 22/1/19 | Jasper | Adaptive nodes enrich nonlinear cooperative learning beyond traditional adaptation by links (Dendritic Learning In Humans) | https://www.nature.com/articles/s41598-018-23471-7 |
+| 29/1/19 | _ | _ | _ |
+| 5/2/19 | _ | _ | _ |
+| 12/2/19 | _ | _ | _ |
+| 19/2/19 | _ | _ | _ |
+| 26/2/19 | _ | _ | _ |
+| 5/3/19 | _ | _ | _ |
+| 12/3/19 | _ | _ | _ |
+| 19/3/19 | _ | _ | _ |
+| 26/3/19 | _ | _ | _ |
+| 2/4/19 | _ | _ | _ |
+| 9/4/19 | _ | _ | _ |
+| 16/4/19 | _ | _ | _ |
+| 23/4/19 | _ | _ | _ |
+| 30/4/19 | _ | _ | _ |
+| 7/5/19 | _ | _ | _ |
+| 14/5/19 | _ | _ | _ |
+| 21/5/19 | _ | _ | _ |
+| 28/5/19 | _ | _ | _ |
 
-The old schedule can also be found on confluence.
-
+## Past Schedules
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | 4/9/18 | Jasper | RL1 | Intro http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html |

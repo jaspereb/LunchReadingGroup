@@ -6,12 +6,12 @@ This page is to manage the ACFR lunch time reading group.
 
 The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
-Currently we are also going through a reinforcement learning tutorials set. The content will follow David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
+Meetings are held every **Tuesday from 12:30pm to 2pm** though we usually finish earlier, presentations should last 30-60 minutes with time for discussion included. The RL series takes around 75 minutes per lecture.
+
+Previously, we went through a reinforcement learning tutorials set. The content followed David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
 Also see  
 -https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ  
 -https://medium.com/biffures/rl-course-by-david-silver-lectures-1-to-4-7667608bf7d3  
-
-Meetings are held every **Tuesday from 12:30pm to 2pm**, presentations should last 20-40 minutes with time for discussion included. The RL series takes around 75 minutes per lecture.
 
 Fletcher's solution to the Easy21 assignment is [this file](easy21.py)
 
@@ -20,9 +20,9 @@ A good blog post for an overview of actor critic methods (and the A2C algorithm)
 
 ## Guidelines
 -Upload the paper or presentation at least 1 day prior  
--It's informal, so present however you feel is most useful. Presenting should not be a significant burden so don't spend too long preparing.  
--Pick whatever recent paper you have found most interesting or useful which other people are unlikely to have read  
--Lunch appropriate illustrations (looking at you Wei Rong)  
+-It's informal, so present however you feel is most useful. Presenting should not be a significant burden, providing a clear overview of the work, along with contributions and limitations is more important than having nice slides  
+-Pick any recent paper you have found interesting or useful which other people are unlikely to have read  
+-Lunch appropriate illustrations please (looking at you Wei Rong)  
 
 ## 2019 Schedule
 The current schedule

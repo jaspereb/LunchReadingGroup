@@ -26,6 +26,7 @@ A good blog post for an overview of actor critic methods (and the A2C algorithm)
 
 ## 2019 Schedule
 The current schedule
+
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | 22/1/19 | Jasper | Adaptive nodes enrich nonlinear cooperative learning beyond traditional adaptation by links (Dendritic Learning In Humans) | https://www.nature.com/articles/s41598-018-23471-7 |
@@ -50,6 +51,7 @@ The current schedule
 
 ## Past Schedules
 The pre 2019 schedules
+
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | 4/9/18 | Jasper | RL1 | Intro http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html |

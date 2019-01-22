@@ -6,7 +6,7 @@ This page is to manage the ACFR lunch time reading group.
 
 The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
-Meetings are held every **Tuesday from 12:30pm to 2pm** though we usually finish earlier, presentations should last 30-60 minutes with time for discussion included. The RL series takes around 75 minutes per lecture.
+Meetings are held every **Tuesday from 12:30pm to 2pm** though we usually finish earlier, presentations should last 30-60 minutes with time for discussion included.
 
 Previously, we went through a reinforcement learning tutorials set. The content followed David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
 Also see  
@@ -30,12 +30,12 @@ The current schedule
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | 22/1/19 | Jasper | Adaptive nodes enrich nonlinear cooperative learning beyond traditional adaptation by links (Dendritic Learning In Humans) | https://www.nature.com/articles/s41598-018-23471-7 |
-| 29/1/19 | _ | _ | _ |
-| 5/2/19 | _ | _ | _ |
-| 12/2/19 | _ | _ | _ |
-| 19/2/19 | _ | _ | _ |
-| 26/2/19 | _ | _ | _ |
-| 5/3/19 | _ | _ | _ |
+| 29/1/19 | Jacob | _ | _ |
+| 5/2/19 | Vera | ICRA Paper (or the aftermath) | _ |
+| 12/2/19 | Johnny | _ | _ |
+| 19/2/19 | Fletcher | _ | _ |
+| 26/2/19 | Max | _ | _ |
+| 5/3/19 | Jackson | _ | _ |
 | 12/3/19 | _ | _ | _ |
 | 19/3/19 | _ | _ | _ |
 | 26/3/19 | _ | _ | _ |

@@ -30,7 +30,7 @@ The current schedule
 | Date  | Presenter | Topic | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | 22/1/19 | Jasper | Adaptive nodes enrich nonlinear cooperative learning beyond traditional adaptation by links (Dendritic Learning In Humans) | https://www.nature.com/articles/s41598-018-23471-7 |
-| 29/1/19 | Jacob | _ | _ |
+| 29/1/19 | ~~Jacob~~ | _ | _ |
 | 5/2/19 | Vera | ICRA Paper (or the aftermath) | _ |
 | 12/2/19 | Johnny | _ | _ |
 | 19/2/19 | Fletcher | _ | _ |

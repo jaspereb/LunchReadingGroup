@@ -13,7 +13,7 @@ Also see
 -https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ  
 -https://medium.com/biffures/rl-course-by-david-silver-lectures-1-to-4-7667608bf7d3  
 
-Fletcher's solution to the Easy21 assignment is [this file](easy21.py)
+Fletcher's solution to the Easy21 assignment is [this file](files/easy21.py)
 
 A good blog post for an overview of actor critic methods (and the A2C algorithm) is  
 -https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 
@@ -31,7 +31,7 @@ The current schedule
 | ------------- | ------------- | ------------- | ------------- |
 | 22/1/19 | Jasper | Adaptive nodes enrich nonlinear cooperative learning beyond traditional adaptation by links (Dendritic Learning In Humans) | https://www.nature.com/articles/s41598-018-23471-7 |
 | 29/1/19 | ~~Jacob~~ | _ | _ |
-| 5/2/19 | Vera | ICRA Paper (or the aftermath) | _ |
+| 5/2/19 | Vera | ICRA Paper | [Vera ICRA Paper](files/Vera_ICRA_v1.pdf) |
 | 12/2/19 | Johnny | _ | _ |
 | 19/2/19 | Fletcher | _ | _ |
 | 26/2/19 | Max | _ | _ |

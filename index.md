@@ -32,7 +32,7 @@ The current schedule
 | 22/1/19 | Jasper | Adaptive nodes enrich nonlinear cooperative learning beyond traditional adaptation by links (Dendritic Learning In Humans) | https://www.nature.com/articles/s41598-018-23471-7 |
 | 29/1/19 | ~~Jacob~~ | _ | _ |
 | 5/2/19 | Vera | ICRA Paper | [Vera ICRA Paper](files/Vera_ICRA_v1.pdf) |
-| 12/2/19 | Johnny | _ | _ |
+| 12/2/19 | Johnny | Learning by Observation for Surgical Tasks | [Learning by Observation for Surgical Tasks](files/DaVinciICRA2015.pdf) |
 | 19/2/19 | Fletcher | _ | _ |
 | 26/2/19 | Max | _ | _ |
 | 5/3/19 | Jackson | _ | _ |

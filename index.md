@@ -34,9 +34,9 @@ The current schedule
 | 5/2/19 | Vera | ICRA Paper | [Vera ICRA Paper](files/Vera_ICRA_v1.pdf) |
 | 12/2/19 | Johnny | Learning by Observation for Surgical Tasks | [Learning by Observation for Surgical Tasks](files/DaVinciICRA2015.pdf),  [Slides](files/JohnnySlidesFeb.pdf) |
 | 19/2/19 | Fletcher | Learning Control from Raw Images | [Embed to Control; Control from raw images](http://papers.nips.cc/paper/5964-embed-to-control-a-locally-linear-latent-dynamics-model-for-control-from-raw-images.pdf?fbclid=IwAR2SbC_nI3CFBRt6q54uef1opjgSi8UDlt5pULv9rKZQNmCUXY1AZ9tS6Qk) |
-| 26/2/19 | Max | _ | _ |
+| 26/2/19 | Max | Journal Paper | Ask Him |
 | 5/3/19 | Jackson | _ | _ |
-| 12/3/19 | _ | _ | _ |
+| 12/3/19 | Jacob | _ | _ |
 | 19/3/19 | _ | _ | _ |
 | 26/3/19 | _ | _ | _ |
 | 2/4/19 | _ | _ | _ |

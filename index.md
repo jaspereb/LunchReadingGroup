@@ -37,7 +37,7 @@ The current schedule
 | 26/2/19 | Max | Journal Paper | Ask Him |
 | 5/3/19 | Jacob | Bayesian Hilbert Maps for Dynamic Continuous Occupancy Mapping | http://proceedings.mlr.press/v78/senanayake17a/senanayake17a.pdf |
 | 12/3/19 | Jackson | Using cGANs to predict ground views from satellite imagery | https://arxiv.org/pdf/1806.05129.pdf |
-| 19/3/19 | Jasper | _ | _ |
+| 19/3/19 | Jasper | Online Meta-Learning (The FTML Algorithm) | https://arxiv.org/pdf/1902.08438.pdf |
 | 26/3/19 | Johnny | _ | _ |
 | 2/4/19 | Vera | _ | _ |
 | 9/4/19 | Fletcher | _ | _ |

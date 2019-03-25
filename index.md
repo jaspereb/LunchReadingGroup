@@ -38,7 +38,7 @@ The current schedule
 | 5/3/19 | Jacob | Bayesian Hilbert Maps for Dynamic Continuous Occupancy Mapping | http://proceedings.mlr.press/v78/senanayake17a/senanayake17a.pdf |
 | 12/3/19 | Jackson | Using cGANs to predict ground views from satellite imagery | https://arxiv.org/pdf/1806.05129.pdf |
 | 19/3/19 | Jasper | Semi Supervised Depth Prediction | https://arxiv.org/pdf/1702.02706.pdf |
-| 26/3/19 | Johnny | Force Control of Flexible Integrated Joint Based on Model-free Adaptive Control | [Here](files/Model Free Joint Force Control.pdf) |
+| 26/3/19 | Johnny | Force Control of Flexible Integrated Joint Based on Model-free Adaptive Control | [Here](files/Model_Free_Joint_Force_Control.pdf) |
 | 2/4/19 | Vera | _ | _ |
 | 9/4/19 | Fletcher | _ | _ |
 | 16/4/19 | Wei? | _ | _ |

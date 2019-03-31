@@ -39,7 +39,7 @@ The current schedule
 | 12/3/19 | Jackson | Using cGANs to predict ground views from satellite imagery | https://arxiv.org/pdf/1806.05129.pdf |
 | 19/3/19 | Jasper | Semi Supervised Depth Prediction | https://arxiv.org/pdf/1702.02706.pdf |
 | 26/3/19 | Johnny | Force Control of Flexible Integrated Joint Based on Model-free Adaptive Control | [Here](files/Model_Free_Joint_Force_Control.pdf) |
-| 2/4/19 | Vera | _ | _ |
+| 2/4/19 | Vera | Distributed Coverage Estimation & Control for Multirobot Persistent Tasks | [Here](files/DistributedCoverageControl.pdf) |
 | 9/4/19 | Fletcher | _ | _ |
 | 16/4/19 | Wei? | _ | _ |
 | 23/4/19 | Max | _ | _ |

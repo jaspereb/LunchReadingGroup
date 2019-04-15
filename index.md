@@ -40,14 +40,14 @@ The current schedule
 | 19/3/19 | Jasper | Semi Supervised Depth Prediction | https://arxiv.org/pdf/1702.02706.pdf |
 | 26/3/19 | Johnny | Force Control of Flexible Integrated Joint Based on Model-free Adaptive Control | [Here](files/Model_Free_Joint_Force_Control.pdf) |
 | 2/4/19 | Vera | Distributed Coverage Estimation & Control for Multirobot Persistent Tasks | [Here](files/DistributedCoverageControl.pdf) |
-| 9/4/19 | Fletcher | _ | _ |
-| 16/4/19 | Wei? | _ | _ |
-| 23/4/19 | Max | _ | _ |
-| 30/4/19 | James? | _ | _ |
-| 7/5/19 | Jackson | _ | _ |
-| 14/5/19 | Jacob | _ | _ |
-| 21/5/19 | _ | _ | _ |
+| 16/4/19 | Fletcher | Bayesian RL for Goal-Only Rewards | [Here](files/Bayesian_RL_For_Goal_Rewards.pdf) |
+| 23/4/19 | Wei? | _ | _ |
+| 30/4/19 | Max | _ | _ |
+| 7/4/19 | James? | _ | _ |
+| 14/5/19 | Jackson | _ | _ |
+| 21/5/19 | Jacob | _ | _ |
 | 28/5/19 | _ | _ | _ |
+
 
 ## Past Schedules
 The pre 2019 schedules

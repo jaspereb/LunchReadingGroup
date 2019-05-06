@@ -42,11 +42,11 @@ The current schedule
 | 2/4/19 | Vera | Distributed Coverage Estimation & Control for Multirobot Persistent Tasks | [Here](files/DistributedCoverageControl.pdf) |
 | 16/4/19 | Fletcher | Bayesian RL for Goal-Only Rewards | [Here](files/Bayesian_RL_For_Goal_Rewards.pdf) |
 | 23/4/19 | Jacob Mini Pres | His Radar Paper | Ask Him |
-| 30/4/19 | Wei | _ | _ |
-| 7/4/19 | James? / Max | _ | _ |
-| 14/5/19 | Jackson | _ | _ |
-| 21/5/19 | _ | _ | _ |
-| 28/5/19 | _ | _ | _ |
+| 30/4/19 | Wei | Deep Learning to Find and Measure Baby Heads in Ultrasound | https://www.ncbi.nlm.nih.gov/pubmed/30573305 |
+| 7/4/19 | Damian | _ | _ |
+| 14/5/19 | James | _ | _ |
+| 21/5/19 | Max? | _ | _ |
+| 28/5/19 | Jackson? | _ | _ |
 
 
 ## Past Schedules

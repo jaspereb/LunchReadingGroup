@@ -8,6 +8,8 @@ The idea of the lunch reading group is to have a presenter explain an interestin
 
 Meetings are held every **Tuesday from 12:30pm to 2pm** though we usually finish earlier, presentations should last 30-60 minutes with time for discussion included.
 
+Following Semester 1 2019 we will be going through a quantum computing course. The reading group will follow the lectures at https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7 and written notes at https://inst.eecs.berkeley.edu/~cs191/fa14/ .
+
 Previously, we went through a reinforcement learning tutorials set. The content followed David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
 Also see  
 -https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ  

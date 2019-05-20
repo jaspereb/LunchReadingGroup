@@ -46,8 +46,8 @@ The current schedule
 | 23/4/19 | Jacob Mini Pres | His Radar Paper | Ask Him |
 | 30/4/19 | Wei | Deep Learning to Find and Measure Baby Heads in Ultrasound | https://www.ncbi.nlm.nih.gov/pubmed/30573305 |
 | 7/4/19 | Damian | Keys-To-Sim | [Here](files/KeysToSim.pdf) |
-| 14/5/19 | James | _ | _ |
-| 21/5/19 | Max? | _ | _ |
+| 14/5/19 | _ | _ | _ |
+| 21/5/19 | James | Combining Time Series and Textual Data for Taxi Prediction | https://arxiv.org/pdf/1808.05535.pdf |
 | 28/5/19 | Jackson? | _ | _ |
 
 

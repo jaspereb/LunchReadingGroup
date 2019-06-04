@@ -48,7 +48,16 @@ The current schedule
 | 7/4/19 | Damian | Keys-To-Sim | [Here](files/KeysToSim.pdf) |
 | 14/5/19 | _ | _ | _ |
 | 21/5/19 | James | Combining Time Series and Textual Data for Taxi Prediction | https://arxiv.org/pdf/1808.05535.pdf |
-| 28/5/19 | Jackson? | _ | _ |
+| 28/5/19 | _ | _ | _ |
+| 4/6/19 | Jasper | QC1 | Vid 1 to 9 |
+| 11/6/19 | Max & Phil | QC2 | Vid 10 to 20 (Plus Fletcher bonus pres) |
+| 18/6/19 | Jacob | QC3 | Vid 21 to 30 |
+| 25/6/19 | Vera | QC4 | Vid 31 to 40 |
+| 2/7/19 | Johnny | QC5 | Vid 41 to 50 |
+| 9/7/19 | James & Fletcher | QC6 | Vid 51 to 60 |
+| 16/7/19 | Wei | QC7 | Vid 61 to 63 & Recap |
+| 23/7/19 | Guodong Guest Lecture? | QC | _ |
+
 
 
 ## Past Schedules

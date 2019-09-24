@@ -62,23 +62,21 @@ The current schedule
 | 13/8/19 | _ | _ | _ |
 | 20/8/19 | Guodong Guest Lecture | Guodong | QC |
 | 27/8/19 | Jasper | Fermat Paths for NLOS Object Reconstruction | http://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf |
-| 3/9/19 | Max | _ | _ |
-| 10/9/19 | Wei | _ | _ |
-| 17/9/19 | Vera | _ | _ |
-| 24/9/19 | Jacob | _ | _ |
-| 1/10/19 | Fletcher | _ | _ |
-| 8/10/19 | Jackson | _ | _ |
-| 15/10/19 | Johnny | _ | _ |
-| 22/10/19 | James | _ | _ |
-| 29/10/19 | Will | _ | _ |
-| 5/11/19 | Damian? | _ | _ |
-| 12/11/19 | Tara? | _ | _ |
-| 19/11/19 | _ | _ | _ |
-| 26/11/19 | _ | _ | _ |
+| 3/9/19 | Max | https://arxiv.org/abs/1906.04893 | Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks |
+| 10/9/19 | Wei | _ | 3D Quasi-Static Ultrasound Elastography With Plane Wave In Vivo |
+| 17/9/19 | _ | _ | _ |
+| 24/9/19 | _ | _ | _ |
+| 1/10/19 | Jacob | _ | 6 Hours of buzzfeed videos |
+| 8/10/19 | Vera | _ | _ |
+| 15/10/19 | Fletcher | _ | _ |
+| 22/10/19 | Jackson | _ | _ |
+| 29/10/19 | Johnny | _ | _ |
+| 5/11/19 | James? | _ | _ |
+| 12/11/19 | Will? | _ | _ |
+| 19/11/19 | Damian? | _ | _ |
+| 26/11/19 | Tara? | _ | _ |
 | 3/12/19 | _ | _ | _ |
 | 10/12/19 | _ | _ | _ |
-
-
 
 
 ## Past Schedules

@@ -6,9 +6,7 @@ This page is to manage the ACFR lunch time reading group.
 
 The idea of the lunch reading group is to have a presenter explain an interesting or informative recent paper/technique while everyone eats lunch. It is modelled on the image reading group but is an informal chance to spend lunchtime finding out about a topic outside of your research area.
 
-Meetings are held every **Tuesday from 12:30pm to 2pm** though we usually finish earlier, presentations should last 30-60 minutes with time for discussion included.
-
-Following Semester 1 2019 we will be going through a quantum computing course. The reading group will follow the lectures at https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7 and written notes at https://inst.eecs.berkeley.edu/~cs191/fa14/ .
+Meetings are held every **Tuesday from 3pm to 4pm** though we usually finish earlier, presentations should last 30-60 minutes with time for discussion included.
 
 Previously, we went through a reinforcement learning tutorials set. The content followed David Silver's lectures at http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html  
 Also see  
@@ -19,6 +17,8 @@ Fletcher's solution to the Easy21 assignment is [this file](files/easy21.py)
 
 A good blog post for an overview of actor critic methods (and the A2C algorithm) is  
 -https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 
+
+We also went through a quantum computing course which followed the lectures https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7 and written notes at https://inst.eecs.berkeley.edu/~cs191/fa14/ .
 
 ## Guidelines
 -Upload the paper or presentation at least 1 day prior  
@@ -68,16 +68,17 @@ The current schedule
 | 24/9/19 | _ | _ | _ |
 | 1/10/19 | Jacob | 6 Hours of buzzfeed videos | _ |
 | 8/10/19 | Vera | _ | _ |
-| 15/10/19 | Fletcher | _ | _ |
-| 22/10/19 | Jackson | _ | _ |
-| 29/10/19 | Johnny | _ | _ |
-| 5/11/19 | James? | _ | _ |
-| 12/11/19 | Will? | _ | _ |
-| 19/11/19 | Damian? | _ | _ |
-| 26/11/19 | Tara? | _ | _ |
-| 3/12/19 | _ | _ | _ |
-| 10/12/19 | _ | _ | _ |
+| 15/10/19 | Fletcher | If MaxEnt RL is the Answer, What is the Question? | https://arxiv.org/abs/1910.01913 |
+| 22/10/19 | _ | _ | _ |
+| 29/10/19 | Johnny | The Scattering Transform | https://arxiv.org/abs/1807.08869 |
+| 5/11/19 | Tara | Teaching Cassie to ride a segway | https://arxiv.org/abs/1809.07279 |
+| 12/11/19 | James | Confident Learning, removing bad training labels | https://l7.curtisnorthcutt.com/confident-learning |
+| 19/11/19 | Vera | _ | _ |
+| 26/11/19 | Jacob | _ | _ |
+| 3/12/19 | Wei | _ | _ |
+| 10/12/19 | Jasper | _ | _ |
 
+2020 order is: Johnny, Fletcher, Tara, Max, James
 
 ## Past Schedules
 The pre 2019 schedules
